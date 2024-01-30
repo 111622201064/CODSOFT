@@ -6,13 +6,13 @@ I'm very thrilled to share my First Task at CodSoft Internship January 2024 viz.
 More details on the structure, working and requirements are available in the README files of respective folder name corresponding to the Task Name.
 '''
 
-# AUTHOR: LATHEEF AHMED A
+# AUTHOR: M DEEKSHITH KUMAR 
 # TASK NAME: Movie Genre Classification
 # 1st Task in the List of Tasks
 # TASK CATEGORY: Machine Learning
 # DATE OF SUBMISSION: 02-02-2024
-# LinkedIn Profile:https://www.linkedin.com/in/latheef-ahmed-13a3aa267
-#Github Profile:https://github.com/111622201055
+# LinkedIn Profile:https://www.linkedin.com/in/moriboyina-deekshith-kumar-32a4772a7/
+#Github Profile:https://github.com/111622201064
 
 
 
