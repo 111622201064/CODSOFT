@@ -56,6 +56,7 @@ Credit Card Fraud Detection
 https://www.linkedin.com/posts/cr-madhan-sai-ai_creditcardfrauddetection-codsoft-codsoftinternship-activity-7146701418295406592-ApUF?utm_source=share&utm_medium=member_desktop
 
 ### Author
-Latheef Ahmed A
-> Contact me @ [LinkedIn](https://www.linkedin.com/in/latheef-ahmed-13a3aa267) | [Email](mailto:lathad046@rmkcet.ac.in)
+M Deekshith Kumar
+> Contact me @ [LinkedIhttps://www.linkedin.com/in/moriboyina-deekshith-kumar-32a4772a7/n]() | [Email](mailto:moriad055@rmkcet.ac.in)
+
 
