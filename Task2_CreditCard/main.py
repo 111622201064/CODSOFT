@@ -1,4 +1,10 @@
+'''
+Hello everyone! This is M DEEKSHITH KUMAR
+Intern at CODSOFT, India.
 
+I'm very thrilled to share my First Task at CodSoft Internship January 2024 viz. MOVIE GENRE CLASSIFICATION MODEL.
+More details on the structure, working and requirements are available in the README files of respective folder name corresponding to the Task Name.
+'''
 
 # AUTHOR: M DEEKSHITH KUMAR 
 # TASK NAME: Movie Genre Classification
