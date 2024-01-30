@@ -1,19 +1,12 @@
-'''
-Hello everyone! This is Latheef Ahmed A
-Intern at CODSOFT, India.
 
-I'm very thrilled to share my First Task at CodSoft Internship January 2024 viz. MOVIE GENRE CLASSIFICATION MODEL.
-More details on the structure, working and requirements are available in the README files of respective folder name corresponding to the Task Name.
-'''
 
-# AUTHOR: LATHEEF AHMED A
-# TASK NAME: Credit card fraud detection
+# AUTHOR: M DEEKSHITH KUMAR 
+# TASK NAME: Movie Genre Classification
 # 2st Task in the List of Tasks
 # TASK CATEGORY: Machine Learning
 # DATE OF SUBMISSION: 02-02-2024
-# LinkedIn Profile:https://www.linkedin.com/in/latheef-ahmed-13a3aa267
-#Github Profile:https://github.com/111622201055
-
+# LinkedIn Profile:https://www.linkedin.com/in/moriboyina-deekshith-kumar-32a4772a7/
+#Github Profile:https://github.com/111622201064
 
 # Lets start the code by importing necessary libraries
 import pandas as pd
