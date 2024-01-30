@@ -1,5 +1,5 @@
 '''
-Hello everyone! This is Latheef Ahmed A
+Hello everyone! This is M DEEKSHITH KUMAR
 Intern at CODSOFT, India.
 
 I'm very thrilled to share my First Task at CodSoft Internship January 2024 viz. MOVIE GENRE CLASSIFICATION MODEL.
