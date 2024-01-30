@@ -11,7 +11,7 @@ For this task, I implemented an ML model using TF-IDF and Naive Bayes classifier
 
 Linkedin Video:
 Movie Genre Classification:
-https://www.linkedin.com/posts/cr-madhan-sai-ai_moivegenreclassification-codsoft-codsoftinternship-activity-7146700824394555392-DcNe?utm_source=share&utm_medium=member_desktop
+https://www.linkedin.com/posts/moriboyina-deekshith-kumar-32a4772a7_moivegenreclassification-codsoft-codsoftinternship-activity-7158079846751858689-Th3x?utm_source=share&utm_medium=member_desktop
 
 ## Task 2: Credit Card Fraud Detection
 ### Task Description: *Build a model to detect fraudulent credit card transactions. Use a dataset containing information about credit card transactions, and experiment with algorithms like Logistic Regression, Decision Trees, or Random Forests to classify transactions as fraudulent or legitimate.*
@@ -19,7 +19,7 @@ In this task, I developed a fraud detection model utilizing algorithms such as L
 
 Linkedin video : 
 Credit Card Fraud Detection:
-https://www.linkedin.com/posts/cr-madhan-sai-ai_creditcardfrauddetection-codsoft-codsoftinternship-activity-7146701418295406592-ApUF?utm_source=share&utm_medium=member_desktop
+https://www.linkedin.com/posts/moriboyina-deekshith-kumar-32a4772a7_creditcardfrauddetection-codsoft-codsoftinternship-activity-7158080934410342400-uBGq?utm_source=share&utm_medium=member_desktop
 
 ## Task 3: Spam SMS Detection
 
@@ -34,8 +34,8 @@ Sincerely Thank You for reviewing my internship work!
 
 Linkedin video :
 spam sms detection :
-https://www.linkedin.com/posts/cr-madhan-sai-ai_spamsmsdetection-codsoft-codsoftinternship-activity-7146702106366779392-_rcj?utm_source=share&utm_medium=member_desktop
+https://www.linkedin.com/posts/moriboyina-deekshith-kumar-32a4772a7_spamsmsdetection-codsoft-codsoftinternship-activity-7158081704723640320-fg0k?utm_source=share&utm_medium=member_desktop
 
 
 M DEEKSHITH KUMAR 
-> Contact me @ [LinkedIn](https://www.linkedin.com/in/latheef-ahmed-13a3aa267) | [Email](mailto:moriad055@rmkcet.ac.in)
+> Contact me @ [LinkedIn](https://www.linkedin.com/in/moriboyina-deekshith-kumar-32a4772a7/) | [Email](mailto:moriad055@rmkcet.ac.in)
