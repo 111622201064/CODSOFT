@@ -7,7 +7,7 @@ More details on the structure, working and requirements are available in the REA
 '''
 
 # AUTHOR: M DEEKSHITH KUMAR 
-# TASK NAME: Movie Genre Classification
+# TASK NAME: Credit Card Fraud Detection
 # 2st Task in the List of Tasks
 # TASK CATEGORY: Machine Learning
 # DATE OF SUBMISSION: 02-02-2024
